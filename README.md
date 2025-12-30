@@ -6,7 +6,6 @@ This project presents a dashboard-based analysis of road accident data created u
 The repository shares dashboard visuals only to ensure quick understanding and consistent viewing across devices.
 
 ---
-
 ## 🛠 Tools Used
 - Microsoft Excel  
 - Pivot Tables  
@@ -14,7 +13,6 @@ The repository shares dashboard visuals only to ensure quick understanding and c
 - Excel Dashboard Design  
 
 ---
-
 ## 📊 Dashboard Highlights
 - Total accident KPIs  
 - Severity-wise accident distribution  
@@ -22,17 +20,15 @@ The repository shares dashboard visuals only to ensure quick understanding and c
 - Visual summaries using charts and slicers  
 
 ---
-
 ## 📷 Dashboard Preview
-Screenshots of the Excel dashboard are provided in this repository for reference.
+
+![Road Accident Dashboard](dashboard_overview.png)
 
 ---
-
 ## 🎯 Objective
 To design a clean and informative Excel dashboard that transforms accident data into meaningful insights suitable for MIS reporting and analytical review.
 
 ---
-
 ## 📂 Note on Project Files
 This repository intentionally includes dashboard visuals only.  
 The complete Excel workbook can be shared separately if required.
