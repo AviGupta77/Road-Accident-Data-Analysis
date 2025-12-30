@@ -22,7 +22,21 @@ The repository shares dashboard visuals only to ensure quick understanding and c
 ---
 ## 📷 Dashboard Preview
 
-![Road Accident Dashboard](dashboard_overview.png)
+### Overall Dashboard View
+![Overall Dashboard](dashboard_overview.png)
+
+### Rural Accidents View
+![Rural Dashboard](dashboard_all_rural.png)
+
+### Urban Accidents View
+![Urban Dashboard](dashboard_all_urban.png)
+
+### January 2021 Accidents
+![January Dashboard](dashboard_jan_2021.png)
+
+### Rural Accidents – March 2021
+![Rural March Dashboard](dashboard_rural_mar_2021.png)
+
 
 ---
 ## 🎯 Objective
